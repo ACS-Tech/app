@@ -1,2 +1,4 @@
-# app
-Our app we creating that will record Matrix-style video clips.
+# "Matrix" App
+This app that we are creating will record Matrix-style video clips.
+
+
